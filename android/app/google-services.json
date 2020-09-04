@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "289972486768",
+    "firebase_url": "https://ninja-brew-crew-974fa.firebaseio.com",
+    "project_id": "ninja-brew-crew-974fa",
+    "storage_bucket": "ninja-brew-crew-974fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289972486768:android:62ba32dc8ffca6d011aab5",
+        "android_client_info": {
+          "package_name": "com.example.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289972486768-pnj8f6gtedejecdakt29d2jperjp8h0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjjiJg-hfkU75SdJ8qmiW8ItEfZ5SCko8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289972486768-pnj8f6gtedejecdakt29d2jperjp8h0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
